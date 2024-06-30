@@ -1,4 +1,4 @@
-Detalhes do Bot
+# Detalhes do Bot 
 
 Este bot está sendo desenvolvido com o objetivo de facilitar a interação com os clientes da W1nner Engenharia e Topografia, permitindo o envio de documentos e informações sobre serviços, como REURB e Unificação. Além disso, o bot será capaz de substituir o setor financeiro, encaminhando boletos gerados pelo banco utilizando o SDK Node.js da Gerencianet.
 
@@ -11,7 +11,7 @@ Novas Funcionalidades: Estou explorando novas funcionalidades para melhorar a in
 Fique atento para mais atualizações e melhorias neste projeto!
 
 
-Sobre o Código
+# Sobre o Código
 
 O bot de atendimento para WhatsApp foi criado utilizando a biblioteca Venom-bot, que facilita a integração com a API do WhatsApp. O desenvolvimento está sendo feito em Node.js, e o projeto inicial está em um único documento JS. As principais dependências utilizadas são:
 
@@ -23,3 +23,6 @@ Inicialização do Bot: Configura a conexão com o WhatsApp e inicializa o bot.
 Recebimento de Mensagens: Lida com as mensagens recebidas dos usuários, processando comandos e fornecendo respostas automatizadas.
 Envio de Documentos: Envia documentos e informações sobre serviços da W1nner Engenharia e Topografia, como REURB e Unificação.
 Integração com a Gerencianet: Gera e encaminha boletos bancários utilizando o SDK da Gerencianet.
+
+
+
