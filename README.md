@@ -44,7 +44,7 @@ O comando `npm start` é uma convenção no Node.js usada para iniciar a aplica�
 # Executando o Bot
  **Para executar o bot, siga os seguintes passos:**
  1. **Instalar Dependências**: Certifique-se de que todas as dependências necessárias estão instaladas.
-   - **Você pode fazer isso executando o comando**:
+   - **Você pode fazer isso executando os comandos**:
 ```sh
  npm install
 ```
