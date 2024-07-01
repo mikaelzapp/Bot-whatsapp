@@ -48,6 +48,9 @@ O comando `npm start` é uma convenção no Node.js usada para iniciar a aplica�
 ```sh
  npm install
 ```
+```sh
+ npm install venom-bot
+```
   2. Iniciar o Bot: Execute o comando npm start para iniciar o bot:
   ```sh
  npm start
